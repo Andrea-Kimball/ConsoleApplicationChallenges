@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoCafe", "KomodoCafe\KomodoCafe.csproj", "{485CCF65-934E-47F2-A55D-A4443B0B79ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoClaims", "KomodoClaims\KomodoClaims.csproj", "{BF598317-9A3D-42F6-8724-DFD89F0072B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoCafe_ConsoleApp", "KomodoCafe_ConsoleApp\KomodoCafe_ConsoleApp.csproj", "{96FF3667-A34E-496D-8535-57F01D9FF467}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoCafe_UnitTest", "KomodoCafe_UnitTest\KomodoCafe_UnitTest.csproj", "{F015CBD1-9A81-4D79-B985-BD8F4258E11D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoClaims_ConsoleApp", "KomodoClaims_ConsoleApp\KomodoClaims_ConsoleApp.csproj", "{D831FEA1-8119-497E-855B-39384BD4C736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoBadge_Repository", "KomodoBadge_Repository\KomodoBadge_Repository.csproj", "{43B7A815-8900-4356-85A5-A426C3754388}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoBadge_ConsoleApp", "KomodoBadge_ConsoleApp\KomodoBadge_ConsoleApp.csproj", "{7F67314B-BE95-48E4-944C-FE84E4E8A1C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{485CCF65-934E-47F2-A55D-A4443B0B79ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485CCF65-934E-47F2-A55D-A4443B0B79ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485CCF65-934E-47F2-A55D-A4443B0B79ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485CCF65-934E-47F2-A55D-A4443B0B79ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF598317-9A3D-42F6-8724-DFD89F0072B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF598317-9A3D-42F6-8724-DFD89F0072B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF598317-9A3D-42F6-8724-DFD89F0072B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF598317-9A3D-42F6-8724-DFD89F0072B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96FF3667-A34E-496D-8535-57F01D9FF467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96FF3667-A34E-496D-8535-57F01D9FF467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96FF3667-A34E-496D-8535-57F01D9FF467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96FF3667-A34E-496D-8535-57F01D9FF467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F015CBD1-9A81-4D79-B985-BD8F4258E11D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F015CBD1-9A81-4D79-B985-BD8F4258E11D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F015CBD1-9A81-4D79-B985-BD8F4258E11D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F015CBD1-9A81-4D79-B985-BD8F4258E11D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D831FEA1-8119-497E-855B-39384BD4C736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D831FEA1-8119-497E-855B-39384BD4C736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D831FEA1-8119-497E-855B-39384BD4C736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D831FEA1-8119-497E-855B-39384BD4C736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B7A815-8900-4356-85A5-A426C3754388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B7A815-8900-4356-85A5-A426C3754388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B7A815-8900-4356-85A5-A426C3754388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B7A815-8900-4356-85A5-A426C3754388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F67314B-BE95-48E4-944C-FE84E4E8A1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F67314B-BE95-48E4-944C-FE84E4E8A1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F67314B-BE95-48E4-944C-FE84E4E8A1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F67314B-BE95-48E4-944C-FE84E4E8A1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E31A0D8B-726A-4F0C-9229-4A5CC762629A}
+	EndGlobalSection
+EndGlobal
